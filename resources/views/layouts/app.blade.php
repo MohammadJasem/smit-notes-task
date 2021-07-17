@@ -18,7 +18,7 @@
 
         <div class="text-center">
             <a class="navbar-brand" href="{{url('/')}}">
-                <img src="{{asset('assets/images/logo-alt.png')}}" alt="Logo">
+                <img src="{{asset('assets/images/logo.png')}}" alt="Logo">
             </a>
         </div>
 

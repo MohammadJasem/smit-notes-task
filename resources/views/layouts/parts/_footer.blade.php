@@ -56,7 +56,7 @@
                 </div>
                 <div class="col-lg-2">
                     <div class="footer-logo text-center mt-10">
-                        <a href="index.html"><img src="{{asset('assets/images/logo-2.svg')}}" alt="Logo"></a>
+                        <a href="index.html"><img src="{{asset('assets/images/logo.png')}}" alt="Logo"></a>
                     </div> <!-- footer logo -->
                 </div>
                 <div class="col-lg-5">
